@@ -1,0 +1,60 @@
+h1 { 
+    color: white;
+  
+
+}
+h4 {
+    color: white;
+  
+}
+body {
+    background:#0454A4;
+    text-align: center;
+}
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    text-align: center;
+    width: 100%;
+    background-color: white;
+}
+header img {
+    width: 150px;
+    height: 150px;
+}
+ul {
+    list-style-type: none;
+}
+li {
+    margin: 0 20px;
+    display: inline-block;
+}
+#contact-form {
+    top: 30%;
+    width: 100%;
+}
+input {
+    display: block;
+    margin: 10px auto;
+    width: 350px;
+    padding: 10px;
+    border-radius: 7px;
+    border: none;
+}
+label {
+    color: white;
+}
+footer {
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    width: 100%;
+    text-align: center;
+    background: white;
+    padding: 10px 0;
+}
+.intro {
+    margin-top: 225px;
+    width: 100%;
+}
